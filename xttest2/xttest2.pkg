@@ -1,0 +1,4 @@
+D 'xttest2': Breusch-Pagan LM test for cross-sectional correlation in fixed effects model Use xttest2 With STATA 19
+D
+F xttest2.ado
+F xttest2.sthlp
